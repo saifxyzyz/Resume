@@ -1,8 +1,9 @@
 # resume
-LaTeX template for my personal resume
+Various ways I found to make resume because I don't like using Word 
 
-Based off of [sb2nov/resume](https://github.com/sb2nov/resume/)
+1. LaTeX template for my personal resume
+2. Python Script
+3. YAML, rendercv
 
-Use it on overleaf: [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) (Not updated)
-
-![Resume Preview](resume.png)
+### Made Using [rendercv](https://github.com/rendercv/rendercv)
+![Resume Preview](rendercv_output\Saif_Mohammed_CV_1.png)

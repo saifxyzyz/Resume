@@ -8,12 +8,12 @@
   top-note: [ #emph[Last updated in Dec 2025] ],
   locale-catalog-language: "en",
   page-size: "us-letter",
-  page-top-margin: 0.7in,
+  page-top-margin: 0.5in,
   page-bottom-margin: 0.2in,
   page-left-margin: 0.7in,
   page-right-margin: 0.7in,
   page-show-footer: false,
-  page-show-top-note: true,
+  page-show-top-note: false,
   colors-body: rgb(0, 0, 0),
   colors-name: rgb(0, 79, 144),
   colors-headline: rgb(0, 79, 144),
@@ -101,10 +101,6 @@
   [
     #strong[Osmania University], Computer Science
 
-    - Won in National Level Hackathon: Hack-O-Mania
-
-    - Advisor: Prof. Ruhiat Sultana
-
   ],
   [
     Hyderabad, IN
@@ -123,9 +119,9 @@
   [
     #strong[Rootz Communication], Junior Machine Learning Engineer
 
-    - Built an automation software for inventory management.
+    - Built an automation software for inventory management which processed incoming purchase orders.
 
-    - Used Logistic Regression Machine Learning Model to track and predict incoming emails and check whether they are regarding purchase orders.
+    - Engineered an NLP pipeline using Logistic Regression to automate the classification of high-volume procurement emails, improving inventory processing efficiency
 
     - Streamlined inventory management and report generation process.
 
@@ -136,6 +132,25 @@
     Aug 2024 – Aug 2025
 
     1 year 1 month
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[YHills], Machine Learning Intern
+
+    - Engineered a video recommendation system at an Educational Tech platform.
+
+    - Used ContextVectorizer, Pandas, Numpy and cosine-similarity to make the recommendation engine.
+
+  ],
+  [
+    Hyderabad, IND
+
+    Feb 2024 – Apr 2024
+
+    3 months
 
   ],
 )
@@ -210,7 +225,7 @@
 
     #summary[Machine learning model to predict whether patient has diabetes or not using various parameters.]
 
-    - Used multiple machine learning algorithms like neural networks, K-Means Clustering, Logistic Regression and more.
+    - Used multiple machine learning algorithms like Neural Networks, K-Nearest Neighbors, Logistic Regression and more.
 
   ],
   [

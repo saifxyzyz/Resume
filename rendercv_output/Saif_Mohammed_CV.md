@@ -17,10 +17,6 @@ Hyderabad, IN
 
 Apr 2021 – May 2025
 
-- Won in National Level Hackathon: Hack-O-Mania
-
-- Advisor: Prof. Ruhiat Sultana
-
 
 
 # Experience
@@ -34,11 +30,27 @@ Aug 2024 – Aug 2025
 
 1 year 1 month
 
-- Built an automation software for inventory management.
+- Built an automation software for inventory management which processed incoming purchase orders.
 
-- Used Logistic Regression Machine Learning Model to track and predict incoming emails and check whether they are regarding purchase orders.
+- Engineered an NLP pipeline using Logistic Regression to automate the classification of high-volume procurement emails, improving inventory processing efficiency
 
 - Streamlined inventory management and report generation process.
+
+
+
+## **YHills**, Machine Learning Intern
+
+Hyderabad, IND
+
+Feb 2024 – Apr 2024
+
+
+
+3 months
+
+- Engineered a video recommendation system at an Educational Tech platform.
+
+- Used ContextVectorizer, Pandas, Numpy and cosine-similarity to make the recommendation engine.
 
 
 
@@ -91,7 +103,7 @@ Fine-Tuned Gemma Model
 
 Machine learning model to predict whether patient has diabetes or not using various parameters.
 
-- Used multiple machine learning algorithms like neural networks, K-Means Clustering, Logistic Regression and more.
+- Used multiple machine learning algorithms like Neural Networks, K-Nearest Neighbors, Logistic Regression and more.
 
 
 

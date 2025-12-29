@@ -24,8 +24,6 @@ cv:
         location: Hyderabad, IN 
         summary:
         highlights:
-          - 'Won in National Level Hackathon: Hack-O-Mania'
-          - 'Advisor: Prof. Ruhiat Sultana'
     experience:
       - company: Rootz Communication
         position: Junior Machine Learning Engineer
@@ -35,9 +33,18 @@ cv:
         location: Riyadh, SA
         summary:
         highlights:
-          - "Built an automation software for inventory management."
-          - "Used Logistic Regression Machine Learning Model to track and predict incoming emails and check whether they are regarding purchase orders."
+          - "Built an automation software for inventory management which processed incoming purchase orders."
+          - "Engineered an NLP pipeline using Logistic Regression to automate the classification of high-volume procurement emails, improving inventory processing efficiency"
           - "Streamlined inventory management and report generation process."
+      - company: YHills
+        position: Machine Learning Intern
+        start_date: 2024-02
+        end_date: 2024-04
+        location: Hyderabad, IND
+        summary:
+        highlights:
+          - "Engineered a video recommendation system at an Educational Tech platform."
+          - "Used ContextVectorizer, Pandas, Numpy and cosine-similarity to make the recommendation engine."
       - company: Open-source
         position: Contributor
         date:
@@ -66,7 +73,7 @@ cv:
       - name: '[Diabetes Prediction Model](https://github.com/saifxyzyz/Diabetes-prediction-model)'
         summary: Machine learning model to predict whether patient has diabetes or not using various parameters.
         highlights:
-          - Used multiple machine learning algorithms like neural networks, K-Means Clustering, Logistic Regression and more.
+          - Used multiple machine learning algorithms like Neural Networks, K-Nearest Neighbors, Logistic Regression and more.
 
     skills:
         - label: Languages
@@ -89,12 +96,12 @@ design:
 
   page:
    size: us-letter
-   top_margin: 0.7in
+   top_margin: 0.5in
    bottom_margin: 0.2in
    left_margin: 0.7in
    right_margin: 0.7in
    show_footer: false
-   show_top_note: true
+   show_top_note: false
   # colors:
   #   body: rgb(0, 0, 0)
   #   name: rgb(0, 79, 144)

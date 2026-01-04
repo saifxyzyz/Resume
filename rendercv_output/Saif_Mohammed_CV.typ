@@ -57,8 +57,8 @@
   header-connections-space-between-connections: 0.5cm,
   section-titles-type: "with_partial_line",
   section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.5cm,
-  section-titles-space-below: 0.3cm,
+  section-titles-space-above: 0.3cm,
+  section-titles-space-below: 0.2cm,
   sections-allow-page-break: true,
   sections-space-between-text-based-entries: 0.2em,
   sections-space-between-regular-entries: 0.2em,
@@ -86,7 +86,7 @@
 = Saif Mohammed
 
 #connections(
-  [#connection-with-icon("location-dot")[Riyadh, SA]],
+  [#connection-with-icon("location-dot")[Riyadh, Saudi Arabia]],
   [#link("mailto:saifmujeeb2603@gmail.com", icon: false, if-underline: false, if-color: false)[#connection-with-icon("envelope")[saifmujeeb2603\@gmail.com]]],
   [#link("tel:+966-50-042-1630", icon: false, if-underline: false, if-color: false)[#connection-with-icon("phone")[050 042 1630]]],
   [#link("https://saifxyzyz.qzz.io/", icon: false, if-underline: false, if-color: false)[#connection-with-icon("link")[saifxyzyz.qzz.io]]],
@@ -159,9 +159,9 @@
   [
     #strong[Open-source], Contributor
 
-    - Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments and more.
+    - Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments, Apache Airflow and more.
 
-    - Fixed Bugs, Backend Flows and worked on front-end issues.
+    - Worked on enhancing exception handling flows, improving error diagnostics, masking sensitive data and adding new features.
 
   ],
   [
@@ -236,7 +236,7 @@
 
 #strong[Languages:] Python, JavaScript, TypeScript, Java, Lua, HTML, CSS, SQL
 
-#strong[Frameworks & Libraries:] PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js
+#strong[Frameworks & Libraries:] PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js, XGBoost, Random Forest
 
 #strong[Infrastructure:] Faiss, ChromaDB, MongoDB, AWS, GCP, PostgreSQL, MySQL, SSMS, Docker, FireBase, Git, Linux
 
@@ -244,4 +244,4 @@
 
 #strong[Scientific Computing with Python:] Charles Severance
 
-#strong[Agents Intensive Multi-Agent Course:] Kaggle, Google
+#strong[Agents Intensive Multi-Agent Course:] Kaggle

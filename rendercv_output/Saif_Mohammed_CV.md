@@ -2,7 +2,7 @@
 
 - Phone: +966 50 042 1630
 - Email: [saifmujeeb2603@gmail.com](mailto:saifmujeeb2603@gmail.com)
-- Location: Riyadh, SA
+- Location: Riyadh, Saudi Arabia
 - Website: [saifxyzyz.qzz.io](https://saifxyzyz.qzz.io/)
 - LinkedIn: [mohammed-saif-a6097b227](https://linkedin.com/in/mohammed-saif-a6097b227)
 - GitHub: [saifxyzyz](https://github.com/saifxyzyz)
@@ -64,9 +64,9 @@ May 2024 – present
 
 1 year 8 months
 
-- Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments and more.
+- Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments, Apache Airflow and more.
 
-- Fixed Bugs, Backend Flows and worked on front-end issues.
+- Worked on enhancing exception handling flows, improving error diagnostics, masking sensitive data and adding new features.
 
 
 
@@ -110,11 +110,11 @@ Machine learning model to predict whether patient has diabetes or not using vari
 # Skills
 **Languages:** Python, JavaScript, TypeScript, Java, Lua, HTML, CSS, SQL
 
-**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js
+**Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js, XGBoost, Random Forest
 
 **Infrastructure:** Faiss, ChromaDB, MongoDB, AWS, GCP, PostgreSQL, MySQL, SSMS, Docker, FireBase, Git, Linux
 
 # Certifications
 **Scientific Computing with Python:** Charles Severance
 
-**Agents Intensive Multi-Agent Course:** Kaggle, Google
+**Agents Intensive Multi-Agent Course:** Kaggle

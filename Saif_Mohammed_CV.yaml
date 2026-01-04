@@ -2,7 +2,7 @@
 cv:
   name: Saif Mohammed
   headline:
-  location: Riyadh, SA
+  location: Riyadh, Saudi Arabia
   email: saifmujeeb2603@gmail.com
   photo:
   phone: '+966500421630'
@@ -53,8 +53,8 @@ cv:
         location: Remote
         summary:
         highlights:
-          - "Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments and more."
-          - "Fixed Bugs, Backend Flows and worked on front-end issues."
+          - "Contributed to several Open-source repositories: Kestra-io, OpenLibrary, Dodo Payments, Apache Airflow and more."
+          - "Worked on enhancing exception handling flows, improving error diagnostics, masking sensitive data and adding new features."
     projects:
       - name: '[arXiv Research Assistant](https://github.com/saifxyzyz/Arxiv-Research-Assistant)'
         summary: Artificial Intelligence Research Automation Software
@@ -79,14 +79,14 @@ cv:
         - label: Languages
           details: Python, JavaScript, TypeScript, Java, Lua, HTML, CSS, SQL
         - label: Frameworks & Libraries
-          details: PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js
+          details: PyTorch, TensorFlow, Scikit-Learn, Pandas, Numpy, Flask, Django, React.js, Next.js, Node.js, XGBoost, Random Forest
         - label: Infrastructure
           details: Faiss, ChromaDB, MongoDB, AWS, GCP, PostgreSQL, MySQL, SSMS, Docker, FireBase, Git, Linux
     Certifications:
         - label: Scientific Computing with Python  
           details: Charles Severance
         - label: Agents Intensive Multi-Agent Course 
-          details: Kaggle, Google
+          details: Kaggle
 design:
   theme: classic
   sections:
@@ -156,11 +156,11 @@ design:
   #     display_urls_instead_of_usernames: false
   #     separator: ''
   #     space_between_connections: 0.5cm
-  # section_titles:
-  #   type: with_partial_line
-  #   line_thickness: 0.5pt
-  #   space_above: 0.5cm
-  #   space_below: 0.3cm
+  section_titles:
+    type: with_partial_line
+    line_thickness: 0.5pt
+    space_above: 0.3cm
+    space_below: 0.2cm
   # entries:
   #   date_and_location_width: 4.15cm
   #   side_space: 0.2cm
